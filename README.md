@@ -1,5 +1,7 @@
-RNN and LSTM for Time Series Analysis
-Read the provided dataset
+# RNN and LSTM for Time Series Analysis.
+Read the provided [DataSet](https://www.kaggle.com/datasets/alihasnainch/yahoo-finance-toronto-canada).
+
+[Notebook On Kaggle](https://www.kaggle.com/code/alihasnainch/time-series-forecasting-with-rnn-lstm).
 Analyze the datasets and preproces it. You have to figure out the problem with the weekends as at that time stock market is closes. The solution is that to add the values of Friday in Saturday and Sunday
 Observe the trend between open and close.
 Read this Article. You can also study anything you desire regarding RNN and LSTMs
